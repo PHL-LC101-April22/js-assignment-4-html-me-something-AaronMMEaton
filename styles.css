@@ -1,1 +1,43 @@
 /* Write your CSS here! */
+
+html{ background-color: lightgray;
+
+}
+
+mainHeading {
+    color: red;
+    }
+
+title {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgray;
+
+}
+
+header {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgray;
+
+}
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0 auto;
+ 	margin: 8px;
+    display: block;
+
+}
+
+main {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:lightgrey;
+    padding: 15px; 
+}
+
+.funParagraph{
+    color: green;
+    color:green;
+}
